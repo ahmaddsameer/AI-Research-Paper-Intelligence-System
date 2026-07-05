@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large precomputed vector assets
+*.npy
+*.index
+paper_embeddings.npy
+paper_faiss.index
+
+# OS files
+.DS_Store
+Thumbs.db
