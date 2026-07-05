@@ -6,6 +6,7 @@ Finding relevant research papers from a large collection of publications can be 
 
 The system understands the meaning of a user's query, retrieves the most relevant research papers, extracts important keywords and entities, and generates a concise summary of each paper. This helps users quickly identify papers that are closely related to their research interests.
 
+The system combines dense semantic retrieval with keyword evidence and enriches the retrieved papers using Named Entity Recognition, keyphrase extraction, abstractive summarization, and explainable relevance information.
 ---
 
 ## Project Objectives
