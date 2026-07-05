@@ -4,9 +4,10 @@
 
 Finding relevant research papers from a large collection of publications can be difficult, especially when traditional search methods rely only on exact keywords. This project aims to make the process more efficient by combining semantic search with Natural Language Processing (NLP) techniques.
 
+The system combines dense semantic retrieval with keyword evidence and enriches the retrieved papers using Named Entity Recognition, keyphrase extraction, abstractive summarization, and explainable relevance information.
+
 The system understands the meaning of a user's query, retrieves the most relevant research papers, extracts important keywords and entities, and generates a concise summary of each paper. This helps users quickly identify papers that are closely related to their research interests.
 
-The system combines dense semantic retrieval with keyword evidence and enriches the retrieved papers using Named Entity Recognition, keyphrase extraction, abstractive summarization, and explainable relevance information.
 ---
 
 ## Project Objectives
