@@ -1,4 +1,4 @@
-# 📚 Intelligent Research Paper Discovery System
+# Intelligent Research Paper Discovery and Analysis System
 
 ## Overview
 
