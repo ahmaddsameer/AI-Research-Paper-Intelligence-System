@@ -2,7 +2,7 @@
 
 ## Overview
 
-Finding relevant research papers from a large collection of publications can be difficult, especially when traditional search methods rely only on exact keywords. This project aims to make the process more efficient by combining semantic search with Natural Language Processing (NLP) techniques.
+Finding relevant research papers from thousands of published articles can be time-consuming. This project presents an intelligent research paper discovery system that combines semantic search with Natural Language Processing (NLP) techniques to retrieve relevant papers based on meaning rather than exact keyword matching.
 
 The system combines dense semantic retrieval with keyword evidence and enriches the retrieved papers using Named Entity Recognition, keyphrase extraction, abstractive summarization, and explainable relevance information.
 
