@@ -30,18 +30,17 @@ The system understands the meaning of a user's query, retrieves the most relevan
 
 ---
 
-## Technologies Used
+## 🛠️ Tech Stack
 
-* Python
-* Hugging Face Datasets
-* Sentence Transformers
-* FAISS
-* KeyBERT
-* spaCy
-* Transformers (BART)
-* Pandas
-* NumPy
-* Scikit-learn
+| Layer | Tool |
+|---|---|
+| Dataset | [CShorten/ML-ArXiv-Papers](https://huggingface.co/datasets/CShorten/ML-ArXiv-Papers) (Hugging Face) |
+| Embeddings | `sentence-transformers` — `all-MiniLM-L6-v2` (384-dim) |
+| Vector Search | `faiss-cpu` — `IndexFlatIP` (cosine similarity via L2-normalized inner product) |
+| Summarization | `transformers` — `sshleifer/distilbart-cnn-12-6` |
+| Keyword Extraction | `keybert` |
+| Data handling | `pandas`, `numpy` |
+| Web App | `streamlit` |
 
 ---
 
